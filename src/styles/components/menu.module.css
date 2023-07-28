@@ -1,0 +1,28 @@
+
+.menuContainer {
+ 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10rem;
+  padding: 1rem;
+  list-style: none;
+}
+
+
+.menuLink {
+  position:relative;
+  text-decoration: none;
+  color: #13110f;
+  font-size: 16px;
+  font-family: sans-serif;
+}
+
+imgLiink{
+  height: 0.2rem;
+}
+
+.botao{
+  background-color: #fff;
+  color: #fff;
+}
